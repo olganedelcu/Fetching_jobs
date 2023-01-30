@@ -6,4 +6,4 @@ const JobBoard = () => {
     </>
 }
 
-return JobBoard;
+export default JobBoard;
